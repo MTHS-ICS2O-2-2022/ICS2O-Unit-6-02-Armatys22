@@ -1,7 +1,7 @@
 // Copyright (c) 2020 Mr Coxall All rights reserved
 //
-// Created by: Jakub Malhotra
-// Created on: Oct 2022
+// Created by: dom
+// Created on: may 2022
 // This file contains the JS functions for index.html
 
 "use strict"

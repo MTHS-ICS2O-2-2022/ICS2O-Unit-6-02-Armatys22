@@ -1,5 +1,5 @@
-/* Created by: Jakub Malhotra
-* Created on: March 2023
+/* Created by: dominik
+* Created on: may 2023
 * This file contains the CSS for index.html
 */
 
@@ -10,7 +10,7 @@
 
 .mdl-layout__content {
   padding-left: 15pt;
-  padding-right: 15pt;
+  padding-right: 50pt;
   padding-top: 15pt;
 }
 
@@ -19,20 +19,20 @@
 }
 
 .page-content {
-  color: whitesmoke;
+  color: rgb(240 229 19);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 .page-content-answer {
-  color: whitesmoke;
+  color: rgb(245 78 78);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 
 body {
-  background-color: lightslategray;
+  background-color: rgb(231 157 30);
 }
 
 img {
